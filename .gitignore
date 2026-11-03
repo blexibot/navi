@@ -1,0 +1,5 @@
+# Never commit private material or local scan output.
+denylist*.txt
+*.local
+.DS_Store
+__pycache__/
